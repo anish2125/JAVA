@@ -1,4 +1,4 @@
-package Loops;
+package conditionals;
 import java.util.Scanner;
 
 public class nested3and5 {

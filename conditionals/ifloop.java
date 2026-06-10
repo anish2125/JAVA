@@ -1,4 +1,4 @@
-package Loops;
+package conditionals;
 
 public class ifloop {
     
