@@ -16,7 +16,7 @@ public class apd3 {
         // 3,7,11,15,19,23...
         int a  =3, d=4;
         for(int i =1;i<=n;i++){
-                System.out.println( a + " ");
+                System.out.println( a + " "); // This method is perfect for finding AP
                 a=a+d;
         }
 
