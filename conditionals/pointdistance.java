@@ -6,7 +6,7 @@ public class pointdistance{
         // Scanner sc = new Scanner(System.in);
         // System.out.println("Enter the coordinates of the first point (x1, y1):");
         // int x1= sc.nextInt();
-        // int y1 = sc.nextInt();
+        // int y1 = sc.nextInt()
         // System.out.println("Enter the coordinates of second point (x2, y2):");
         // int x2 = sc.nextInt();
         // int y2 = sc.nextInt();  
